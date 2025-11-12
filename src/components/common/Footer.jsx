@@ -202,7 +202,7 @@ const Footer = () => {
       {/* Copyright Bar */}
       <div className="mt-12 border-t border-white/10 pt-6 text-center text-sm text-gray-400">
         © {new Date().getFullYear()}{" "}
-        <span className="text-white font-semibold">Codes Thinker</span>. All
+        <span className="text-white font-semibold">Stream Fetch</span>. All
         rights reserved.
       </div>
     </footer>
